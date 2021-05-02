@@ -9,28 +9,28 @@ markdown: kramdown
   
 # The title and tagline is showed on homepage
 #
-title :  Simpleyyt 
-tagline: Yitao's Blog
+title :  Hi I am Taehyun
+tagline: Taehyun's Blog
 
 gems: [jekyll-paginate]
 
 # Information about author
 #
 author :
-  name : Yitao Yao
+  name : Taehyun Kim
   
 # Information for contacts showed at on the footer
 #
 contact :
-  e-mail : mailto:simpleyyt@gmail.com
-  Github : https://github.com/Simpleyyt
-  WeiBo : http://www.weibo.com/u/1836017133
-  Google+ : https://plus.google.com/103860633659538888207?rel=author
+  e-mail :
+  Github : 
+  WeiBo : 
+  Google+ : 
   
 # Links showed on the footer
 #
 links :
-  Yitao's Blog : http://simpleyyt.github.io/
+  Yitao's Blog : http://drone8449.github.io/
 
 # The search engine. Only support google custom search engine.
 #
